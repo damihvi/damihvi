@@ -72,11 +72,4 @@ Aplicación completa desplegada en Azure utilizando Nginx y Gunicorn.
 
 ---
 
-## 🌎 Conecta Conmigo
-
-* GitHub: [https://github.com/](https://github.com/)
-* LinkedIn: [https://linkedin.com/](https://linkedin.com/)
-
----
-
 ⭐ Siempre aprendiendo, construyendo y mejorando.
