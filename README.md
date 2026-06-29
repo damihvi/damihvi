@@ -40,6 +40,11 @@ Apasionado por el desarrollo backend, el análisis de datos, el despliegue en la
 * Wireshark
 * Karate
 
+  ## 🏆 Credenciales
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ---
 
 ## 📌 Proyectos Destacados
