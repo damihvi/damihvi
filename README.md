@@ -43,6 +43,7 @@ Apasionado por el desarrollo backend, el análisis de datos, el despliegue en la
   ## 🏆 Credenciales
 
 <!--START_SECTION:badges-->
+[![AI Skills Fest 2026](https://images.credly.com/size/80x80/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob)](https://www.credly.com/badges/d23e0033-e8de-434e-b9a3-69344df569e5)
 <!--END_SECTION:badges-->
 
 ---
