@@ -13,7 +13,7 @@ jobs:
 
       - uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: https://www.credly.com/users/damian-herrera.3e2e8e82
+          CREDLY_USER: damian-herrera.3e2e8e82
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
