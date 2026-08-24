@@ -1,4 +1,4 @@
-# Hola, soy Isaac Damián Herrera 👋
+# Hola, soy Isaac Damián Herrera
 
 ### Desarrollador de Software | Backend • Análisis de Datos • Tecnologías Cloud
 
@@ -54,15 +54,15 @@ Apasionado por el desarrollo backend, el análisis de datos, el despliegue en la
 
 Sistema automatizado de análisis KPI y generación de reportes desarrollado con Python.
 
-### 🌐 Aplicación Web Full-Stack
+### 🌐 Aplicación Web Full-Stack (proyecto de universidad)
 
 Aplicación desarrollada con Django y React enfocada en lógica de negocio y gestión de bases de datos.
 
-### 🛒 Plataforma E-Commerce
+### 🛒 Plataforma E-Commerce (proyecto de universidad)
 
 Backend desplegado en Linux con Nginx y frontend alojado en Vercel.
 
-### 🚌 Sistema de Transporte Público
+### 🚌 Sistema de Transporte Público (proyecto de universidad)
 
 Aplicación completa desplegada en Azure utilizando Nginx y Gunicorn.
 
@@ -78,4 +78,4 @@ Aplicación completa desplegada en Azure utilizando Nginx y Gunicorn.
 
 ---
 
-⭐ Siempre aprendiendo, construyendo y mejorando.
+Siempre dispuesto a seguir aprendiendo y mejorando.
