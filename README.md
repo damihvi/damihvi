@@ -43,6 +43,7 @@ Apasionado por el desarrollo backend, el análisis de datos, el despliegue en la
   ## 🏆 Credenciales
 
 <!--START_SECTION:badges-->
+[![Data Science Essentials With Python](https://images.credly.com/size/80x80/images/62db59ef-19f9-4652-a00c-7582baee8177/blob)](https://www.credly.com/badges/fb93f6c0-8c61-4a86-819d-625917f62e90)
 [![Introduction to Modern AI](https://images.credly.com/size/80x80/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/blob)](https://www.credly.com/badges/bb46f70c-ebc9-44f7-8c92-193d481fb181)
 [![Data Analytics Essentials](https://images.credly.com/size/80x80/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png)](https://www.credly.com/badges/ae50a437-d5e4-4201-bb75-ae182018d623)
 [![Python Essentials 1](https://images.credly.com/size/80x80/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](https://www.credly.com/badges/c9b5aae4-7cc6-4394-be28-961fff4658a2)
